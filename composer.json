@@ -1,0 +1,15 @@
+{
+    "name": "prawee/omise-test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "prawee@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "omise/omise-php": "dev-master"
+    }
+}
